@@ -31,4 +31,4 @@ JavaScript, TypeScript, SCSS, AntDesign, Tailwind, React, Next.js, Redux, Jotai,
 ### Backend stack:
 Node.js, Express, Prisma ORM, Redis, Git, JWT, CI/CD, Linux, Docker.
 
-### 📫[LinkedIn](https://drive.google.com/file/d/1uxZSYa_n74ghDCtbNBo2qpdvQ4RbQtMd/view), [CV](https://drive.google.com/file/d/1uxZSYa_n74ghDCtbNBo2qpdvQ4RbQtMd/view)
+### 📫[LinkedIn](https://www.linkedin.com/in/dmitry-kozh/), [CV](https://drive.google.com/file/d/1uxZSYa_n74ghDCtbNBo2qpdvQ4RbQtMd/view)
