@@ -29,6 +29,6 @@ I am interested in full development cycle, from frontend to deployment. I enjoy 
 JavaScript, TypeScript, SCSS, AntDesign, Tailwind, React, Next.js, Redux, Jotai, GraphQL, React Router, Tanstack Query, Jest, React Testing Library, Leaflet, Docusaurus, i18n.
 
 ### Backend stack:
-Node.js, Express, Prisma ORM, Redis, Git, JWT, CI/CD, Linux, Docker.
+Node.js, Express, Linux, Docker, Prisma ORM, Redis, Git, JWT, CI/CD.
 
-### 📫[LinkedIn](https://www.linkedin.com/in/dmitry-kozh/), [CV](https://drive.google.com/file/d/1uxZSYa_n74ghDCtbNBo2qpdvQ4RbQtMd/view)
+### 📫[LinkedIn](https://www.linkedin.com/in/dmitry-kozh/)
