@@ -22,7 +22,6 @@ I'm a Frontend developer with **3+ years** of experience in React/Typescript who
 - Productively communicate with team to achieve common goals
 
 I've worked at **SberTech** and **Ufanet**, participated in hackathons, performed as a freelancer.
-
 I am interested in full development cycle, from frontend to deployment. I enjoy learning new technologies and improving as a developer.
 
 ### Frontend stack:
