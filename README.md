@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Frontend developer with **3.5+ years** of experience in React/Typescript who can:
+I'm a Frontend developer with **3.5+ years** of experience in React, Typescript, Node.js who can:
 
 - Create modern, scalable and performant web-applications
 - Provide the best UX/UI possible
