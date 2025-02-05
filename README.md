@@ -25,7 +25,7 @@ Worked at **SberTech** and **Ufanet**, participated in hackathons, performed as 
 Passionate about the full development cycle, from frontend to deployment. Enjoy learning new technologies and improving as a developer.
 
 ### Frontend stack:
-JavaScript, TypeScript, SCSS, AntDesign, Tailwind, React, Next.js, Redux, Jotai, GraphQL, React Router, Tanstack Query, WebSocket, Jest, React Testing Library, Figma, Leaflet, Docusaurus, i18n.
+JavaScript, TypeScript, React, Next.js, Redux, SCSS, AntDesign, UIKit, Tailwind, Jotai, GraphQL, React Router, Tanstack Query, WebSocket, Jest, Figma, Leaflet, Docusaurus, i18n.
 
 ### Backend stack:
 Node.js, Express, Linux, Docker, Prisma ORM, Redis, Git, JWT, CI/CD.
