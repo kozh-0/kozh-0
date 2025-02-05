@@ -15,14 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Frontend developer with **3.5+ years** of experience in React, Typescript, Node.js who can:
+I'm a Frontend Developer with **3.5+ years** of experience in React, Typescript, Node.js.
 
-- Create modern, scalable and performant web-applications
-- Provide the best UX/UI possible
-- Productively communicate with team to achieve common goals
-
-Worked at **SberTech** and **Ufanet**, participated in hackathons, performed as a freelancer.  
-Passionate about the full development cycle, from frontend to deployment. Enjoy learning new technologies and improving as a developer.
+Proficient in creating modern, scalable and performant web applications, building apps from scratch as a solo developer and in maintaining large projects in teams of up to 30 members, both remotely and on-site.  
+Passionate about learning new technologies and continuously improving as a developer.
 
 ### Frontend stack:
 JavaScript, TypeScript, React, Next.js, Redux, SCSS, AntDesign, UIKit, Tailwind, Jotai, GraphQL, React Router, Tanstack Query, WebSocket, Jest, Figma, Leaflet, Docusaurus, i18n.
